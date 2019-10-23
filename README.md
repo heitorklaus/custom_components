@@ -9,4 +9,4 @@ I created this package because I needed a better solution than the native "mater
 Heitor Klaus
 heitorklaus@hotmail.com
 
-<img src="https://drive.google.com/file/d/16peRNqZvOF8Zf1aIpRPF3VHVkkFCu5tN/view">
+<img src="https://drive.google.com/file/d/16peRNqZvOF8Zf1aIpRPF3VHVkkFCu5tN">
