@@ -1,17 +1,12 @@
 # input
+Custom TextFormField flutter component
 
-A new Flutter project.
 
-## Getting Started
+I created this package because I needed a better solution than the native "material", added parameters like padding, border, background color, border color directly in the component call.
 
-This project is a starting point for a Flutter application.
+# Please accept suggestions for improvement!
 
-A few resources to get you started if this is your first Flutter project:
+Heitor Klaus
+heitorklaus@hotmail.com
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-<BR>
+<img src="https://drive.google.com/file/d/16peRNqZvOF8Zf1aIpRPF3VHVkkFCu5tN/view">
